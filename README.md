@@ -14,7 +14,8 @@ To detect and remove the outliers from the given csv file.
 ### Step 4 : Write codes for outliers detection and removal operation.
 
 ### Step 5 : Use quantile formulas and boxplot.
-Step 6 : End the program.
+
+### Step 6 : End the program.
 
 # CODE:
 ```
