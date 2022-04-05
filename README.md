@@ -54,5 +54,6 @@ df2_new
 ![gitlogo](dragon-4.png)
 ![gitlogo](dragon-5.png)
 
-RESULT:
+ # RESULT:
+
 Thus the Outliers are detected and removed from the Dataset.
